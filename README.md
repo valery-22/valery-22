@@ -33,7 +33,7 @@ JavaScript · TypeScript · Python
 
 ### ⚡ Fun Facts
 
-- 🌍 I love traveling and recently planned a 35-day trip to Italy!
+- 🌍 I love traveling and recently planned a trip to Italy!
 - 🥾 Hiking, design, and building clean UI/UX experiences fuel my creativity.
 - 🌱 I'm a lifelong learner and always open to challenging myself with new technologies.
 
