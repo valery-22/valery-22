@@ -21,7 +21,7 @@ I'm open to **remote international opportunities**, internships, and collaborati
 React · Next.js · Tailwind CSS · Framer Motion · HTML · CSS · TypeScript  
 
 **Backend:**  
-Node.js · Express · REST APIs · MongoDB · Firebase  
+Node.js · Express · REST APIs · MongoDB · Python  
 
 **Tools & Platforms:**  
 Docker · Git · GitHub · Vercel · Railway · VS Code · Linux  
