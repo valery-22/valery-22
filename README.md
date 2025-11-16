@@ -11,7 +11,7 @@ I'm open to **remote international opportunities**, internships, and collaborati
 - 🔭 Currently building automation tools and AI-powered apps with **Nextvy Solutions**
 - 🌱 Constantly learning about **cloud services**, **backend architecture**, and **machine learning integration**
 - 🤝 Open to global collaboration, freelance projects, and remote roles
-- 🌎 Based in Colombia — available to work across time zones
+- 🌎 Based in Colombia, available to work across time zones
 
 ---
 
