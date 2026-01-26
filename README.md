@@ -1,44 +1,42 @@
-## 👋 Hi there! I'm Valery Hoyos
+👋 Hi, I’m Valery Hoyos
 
-I'm a **Software Engineer** passionate about building intelligent, scalable, and user-centered web applications. With a strong foundation in **full-stack development** and a focus on creating impactful digital products, I thrive on solving real-world problems with code.
+I’m a software engineer focused on building useful, production-ready web products, especially where automation, AI, and clean user experience meet. I enjoy taking ideas from vague requirements to systems that actually ship, scale, and get used.
 
-I'm open to **remote international opportunities**, internships, and collaborations that push innovation forward.
+I’ve worked across the stack, but I’m strongest when turning real business problems into reliable applications with solid backend architecture and thoughtful frontends. I care about clarity, performance, and making things easy to maintain after launch.
 
----
+I’m open to remote international work, freelance projects, and collaborations where I can take ownership and deliver real outcomes.
 
-### 🌍 About Me
+🌍 About me
 
-- 🔭 Currently building automation tools and AI-powered apps with **Nextvy Solutions**
-- 🌱 Constantly learning about **cloud services**, **backend architecture**, and **machine learning integration**
-- 🤝 Open to global collaboration, freelance projects, and remote roles
-- 🌎 Based in Colombia, available to work across time zones
+Currently building automation tools and AI-powered applications at Nextvy Solutions.
+I’m especially interested in backend architecture, cloud infrastructure, and integrating AI into real products instead of demos.
+I enjoy collaborating with startups, founders, and small teams that value speed, quality, and clear communication.
+Based in Spain, comfortable working across time zones.
 
----
+🛠️ Tech I work with
 
-### 🛠️ Tech Stack
+Frontend: React, Next.js, TypeScript, Tailwind CSS, Framer Motion, HTML, CSS
 
-**Frontend:**  
-React · Next.js · Tailwind CSS · Framer Motion · HTML · CSS · TypeScript  
+Backend: Node.js, Express, REST APIs, Python, MongoDB
 
-**Backend:**  
-Node.js · Express · REST APIs · MongoDB · Python  
+Tools and platforms: Docker, Git, GitHub, Vercel, Railway, Linux, VS Code
 
-**Tools & Platforms:**  
-Docker · Git · GitHub · Vercel · Railway · VS Code · Linux  
+💼 Work with me
 
-**Languages:**  
-JavaScript · TypeScript · Python
+I help teams and founders build and improve web products, especially when they involve automation or AI.
 
----
+This usually looks like:
+Building AI-powered features or internal tools
+Creating or extending full-stack web applications
+Improving frontend UX and performance
+Shipping MVPs quickly with production-ready foundations
 
-### ⚡ Fun Facts
+If you’re working on something and want a reliable engineer who can move fast without cutting corners, feel free to reach out or explore my pinned projects.
 
-- 🌍 I love traveling and recently planned a trip to Italy!
-- 🥾 Hiking, design, and building clean UI/UX experiences fuel my creativity.
-- 🌱 I'm a lifelong learner and always open to challenging myself with new technologies.
+⚡ A bit more about me
 
----
+I enjoy hiking, good design, and building interfaces that feel simple and intentional.
+I like understanding how systems behave in production, especially around performance and scalability.
+I’m a lifelong learner and usually learn best by building things that solve real problems.
 
-Thanks for visiting — feel free to check out my pinned projects or connect with me. Let’s build something amazing together!
-
--->
+Thanks for stopping by. Take a look at the pinned repositories below to see the kind of work I do.
