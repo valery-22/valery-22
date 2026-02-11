@@ -5,7 +5,9 @@ I’m a software engineer focused on building useful, production-ready web produ
 I’ve worked across the stack, but I’m strongest when turning real business problems into reliable applications with solid backend architecture and thoughtful frontends. I care about clarity, performance, and making things easy to maintain after launch.
 
 I’m open to remote international work, freelance projects, and collaborations where I can take ownership and deliver real outcomes.
+
 Visit my website: https://hey-valery.vercel.app/ 
+
 🌍 About me
 
 Currently building automation tools and AI-powered applications at Nextvy Solutions.
