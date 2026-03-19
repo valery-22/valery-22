@@ -10,10 +10,10 @@ Visit my website: https://hey-valery.vercel.app/
 
 🌍 About me
 
-Currently building automation tools and AI-powered applications at Nextvy Solutions.
+Currently building automation tools and AI-powered applications at Next Solutions.
 I’m especially interested in backend architecture, cloud infrastructure, and integrating AI into real products instead of demos.
 I enjoy collaborating with startups, founders, and small teams that value speed, quality, and clear communication.
-Based in Spain, comfortable working across time zones.
+Based in Colombia, comfortable working across time zones.
 
 🛠️ Tech I work with
 
