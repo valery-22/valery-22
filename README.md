@@ -32,7 +32,7 @@ Based in Colombia for now  🇨🇴 • Comfortable working with distributed int
 
 # 🚀 Featured Projects
 
-## **Aether** — AI Operations Copilot (2025)
+## **Aether** — AI Operations Copilot
 Internal AI agent platform that automates repetitive operational workflows for cross-functional teams.
 
 **Impact**
@@ -48,22 +48,7 @@ Internal AI agent platform that automates repetitive operational workflows for c
 
 ---
 
-## PayShield AI — Fraud Detection Platform
-Production-grade financial risk analysis system combining machine learning and explainable AI.
-
-**Impact**
-- Built real-time fraud prediction engine processing 15,000+ transactions/day
-- Implemented SHAP explainability, improving analyst decision speed by 40%
-- Designed scalable architecture supporting continuous model retraining
-
-**Tech**: Python, FastAPI, scikit-learn, SHAP, PostgreSQL, Real-time monitoring  
-**[→ GitHub](link)** • **[Live Demo](link)**
-
-*()*
-
----
-
-## InsightFlow — AI Document Intelligence SaaS (2025)
+## InsightFlow — AI Document Intelligence SaaS 
 RAG-powered platform that extracts insights, answers questions, and generates reports from large document collections.
 
 **Impact**
@@ -80,7 +65,7 @@ RAG-powered platform that extracts insights, answers questions, and generates re
 
 # 💼 What I Build
 
-- AI-native products and agentic systems
+- AI products and agentic systems
 - Production RAG & automation platforms
 - Scalable full-stack SaaS applications
 - Internal tooling that meaningfully moves business metrics
@@ -92,7 +77,7 @@ I obsess over systems that are not only smart but also reliable, maintainable, a
 
 # ⚡ Beyond Engineering
 
-When I’m not coding, you’ll find me **hiking** in the Colombian mountains, exploring new cities, or planning my next adventure. I’ve visited **10 countries** so far and travel as much as I can — it keeps me curious, adaptable, and reminds me that the best systems (and experiences) come from embracing the unknown.
+When I’m not coding, you’ll find me **hiking** in the mountains, exploring new cities, or planning my next adventure. I’ve visited **10 countries** so far and travel as much as I can — it keeps me curious, adaptable, and reminds me that the best systems (and experiences) come from embracing the unknown.
 
 I’m also passionate about thoughtful product design and understanding how complex systems behave under real-world pressure — whether in software or in life.
 
