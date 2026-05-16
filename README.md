@@ -77,9 +77,9 @@ I obsess over systems that are not only smart but also reliable, maintainable, a
 
 # ⚡ Beyond Engineering
 
-When I’m not coding, you’ll find me **hiking** in the mountains, exploring new cities, or planning my next adventure. I’ve visited **10 countries** so far and travel as much as I can — it keeps me curious, adaptable, and reminds me that the best systems (and experiences) come from embracing the unknown.
+When I’m not coding, you’ll find me **hiking** in the mountains, exploring new cities, or planning my next adventure. I’ve visited **10 countries** so far and travel as much as I can  it keeps me curious, adaptable, and reminds me that the best systems (and experiences) come from embracing the unknown.
 
-I’m also passionate about thoughtful product design and understanding how complex systems behave under real-world pressure — whether in software or in life.
+I’m also passionate about thoughtful product design and understanding how complex systems behave under real-world pressure whether in software or in life.
 
 ---
 
