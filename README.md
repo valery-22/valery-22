@@ -32,7 +32,7 @@ Full-stack engineer with deep expertise in **backend systems**, **API architectu
 
 # 🚀 Featured Projects
 
-## **Aether** — AI Operations Copilot
+## **Aether**: AI Operations Copilot
 Internal AI agent platform that automates repetitive operational workflows for cross-functional teams.
 
 **Impact**
@@ -48,7 +48,7 @@ Internal AI agent platform that automates repetitive operational workflows for c
 
 ---
 
-## InsightFlow — AI Document Intelligence SaaS 
+## InsightFlow: AI Document Intelligence SaaS 
 RAG-powered platform that extracts insights, answers questions, and generates reports from large document collections.
 
 **Impact**
