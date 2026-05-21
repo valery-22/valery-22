@@ -23,10 +23,10 @@ Full-stack engineer with deep expertise in **backend systems**, **API architectu
 
 # ⚙️ Technologies
 
-**Backend & Systems** — Python • FastAPI • Node.js • PostgreSQL • Event-driven architectures  
-**AI & Data** — OpenAI • LangChain • RAG • Vector Search • AI Agents • ML Pipelines  
-**Frontend** — Next.js • React • TypeScript • Tailwind CSS  
-**Infrastructure** — Docker • GitHub Actions • Railway • Vercel • Linux • Observability
+**Backend & Systems**: Python • FastAPI • Node.js • PostgreSQL • Event-driven architectures  
+**AI & Data**:  OpenAI • LangChain • RAG • Vector Search • AI Agents • ML Pipelines  
+**Frontend**: Next.js • React • TypeScript • Tailwind CSS  
+**Infrastructure**: Docker • GitHub Actions • Railway • Vercel • Linux • Observability
 
 ---
 
