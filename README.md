@@ -11,7 +11,7 @@ I blend strong backend architecture, modern full-stack development, and practica
 
 Full-stack engineer with deep expertise in **backend systems**, **API architecture**, **infrastructure**, and **production AI**. I thrive in fast-paced, ambiguous environments  turning vague ideas into clean, reliable, production-ready solutions.
 
-Based in Colombia for now  🇨🇴 • Comfortable working with distributed international teams across time zones and open to oportunities all around the world.
+ • Comfortable working with distributed international teams across time zones and open to oportunities all around the world.
 
 ---
 
