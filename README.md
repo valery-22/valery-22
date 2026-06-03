@@ -17,7 +17,7 @@ Full-stack engineer with deep expertise in **backend systems**, **API architectu
 
 # 🛠️ Engineering Focus
 
-**Full-Stack Product Engineering** • **Backend & Systems Design** • **AI Agents & Automation** • **Infrastructure & Reliability**
+* • **Backend & Systems Design** • **AI Agents & Automation** • **Infrastructure & Reliability**
 
 ---
 
