@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Valery Hoyos
 
-**AI full-stack engineer** who builds production grade operational systems, intelligent automation platforms, and reliable AI products that teams love using.
+**Software engineer** who builds production grade operational systems, intelligent automation platforms, and reliable AI products that teams love using.
 
 I blend strong backend architecture, modern full-stack development, and practical AI (RAG, agents, workflows) to solve real business problems, helping companies ship faster, reduce manual work, and operate more efficiently with scalable, maintainable systems.
 
