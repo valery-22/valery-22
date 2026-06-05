@@ -41,9 +41,7 @@ Internal AI agent platform that automates repetitive operational workflows for c
 - Achieved 92% automation rate on recurring support tasks
 - Designed with human-in-the-loop safeguards for production safety
 
-**Tech**: Python, FastAPI, LangChain, CrewAI / AutoGen, RAG, PostgreSQL, Next.js  
-**[→ GitHub](link)** • **[Live Demo](link)**
-
+**Tech**: Python, FastAPI, LangChain, CrewAI 
 *()*
 
 ---
@@ -57,7 +55,6 @@ RAG-powered platform that extracts insights, answers questions, and generates re
 - Built with multi-tenancy, usage analytics, and secure data isolation from day one
 
 **Tech**: Next.js, TypeScript, FastAPI, LangChain, Pinecone / Supabase Vector, OpenAI  
-**[→ GitHub](link)** • **[Live Demo](link)**
 
 *()*
 
